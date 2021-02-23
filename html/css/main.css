@@ -1,0 +1,27 @@
+.about{
+  font-family: sans-serif;
+  color: #00cc66;
+  text-decoration: underline;
+  position: absolute;
+  top: 285px;
+  left: 16px;
+}
+
+.mainTitle{
+  font-family:serif;
+  color: DarkBlue;
+  background-color: green;
+
+}
+
+#facts{
+  position: absolute;
+  top: 350px;
+  left: 16px;
+}
+
+#me{
+  position: absolute;
+  top: 100px;
+  left: 16px;
+}
